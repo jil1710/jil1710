@@ -84,8 +84,8 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Vipul1432&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href =""><img height = "185rem" alt="Vipul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jil1710&langs_count=8&count_private=true&layout=compact&theme=tokyonight&bg_color=0D1117" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=jil1710&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href =""><img height = "185rem" alt="Jil Patel" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jil1710&langs_count=8&count_private=true&layout=compact&theme=tokyonight&bg_color=0D1117" /></a>
   <br/>
 
 </td>
@@ -99,7 +99,7 @@
 
 <br/>
 <p align="center">
-<a href="https://github.com/Vipul1432"><span>
+<a href="https://github.com/jil1710"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jil1710&theme=tokyonight" />
 </span></a> </p>
 
@@ -110,10 +110,10 @@
 <br>
 ## ❤️ Views and Followers
 <br>
-<a href="https://github.com/Vipul1432/github-profile-views-counter">
+<a href="https://github.com/jil1710/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jil1710">
 </a>
-<a href="https://github.com/Vipul1432?tab=followers"><img src="https://img.shields.io/github/followers/jil1710?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/jil1710?tab=followers"><img src="https://img.shields.io/github/followers/jil1710?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br><br>
 
